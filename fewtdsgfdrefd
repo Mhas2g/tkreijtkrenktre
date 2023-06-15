@@ -35,6 +35,10 @@ MainSection:NewButton("FE banana Gun Hardcore mode", "Only Do it when you're in 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNeRD0/Doors-Hack/main/BananaGunByNerd.lua"))()
 end)
 
+MainSection:NewButton("Elevator Breaker Only in priv servers", "Only Do it when you're in game.", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Mhas2g/fezgrehfdfds/main/ngfdssfzxvsedfgds"))()
+end)
+
 
 
 
